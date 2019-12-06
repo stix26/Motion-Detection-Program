@@ -8,5 +8,5 @@
 
 4. cd "Motion-Detection-Program-master"
 
-5. python3 motion_detector.py
+5. python3 plotting.py
 
