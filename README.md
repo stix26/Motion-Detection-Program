@@ -1,4 +1,5 @@
 # Motion-Detection-Program
+A motion detection program that records and stores data of moving objects using your laptop or desktop camera. 
 
 1. Download Motion-Detection Program
 
